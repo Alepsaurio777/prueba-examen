@@ -12,6 +12,11 @@ readline.question('¿Cuál es tu nombre? ', nombre => {
 
 
 
+//Revisado
+
+
+
+
 
 // Generador de frases motivacionales
 const frases = [
